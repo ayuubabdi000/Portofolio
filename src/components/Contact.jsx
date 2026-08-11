@@ -127,7 +127,7 @@ ${formData.message}
                   <Mail size={19} />
                 </div>
 
-                <span>your@email.com</span>
+                <span>Ayuubhajijama@email.com</span>
               </a>
 
               {/* Location */}
