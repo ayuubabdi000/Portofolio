@@ -41,11 +41,11 @@ const Hero = () => {
                         dark:text-white text-gray-900"
                         >Hi, I'm <span
                             className="text-violet-500 dark:text-[#e0c0fd]">
-                                Abdikani</span>
+                                Ayuub</span>
                         </h1>
                         <h2 className="text-xl sm:text-2xl lg:text-3xl font-mono mb-4
                         dark:text-violet-400 text-violet-600  ">
-                            Ai & Machine Learning Engneer
+                            Fullstack Developer
                         </h2>
                         <p className="mb-8 leading-relaxed max-w-md lg:max-w-lg
                         dark:text-gray-300 text-gray-700 ">As an ML Developer, I am passionate about developing intelligence-driven systems, AI-driven tools, and data-driven applications. I like solving real-life problems with the help of machine learning, python programming, and effective problem-solving skills. I love to learn new things and build projects using the latest technologies and models.

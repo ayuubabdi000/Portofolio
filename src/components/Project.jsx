@@ -25,20 +25,7 @@ const Projects = () => {
       demo: "#",
     },
 
-    {
-      title: "Somali Speech Recognition",
-      description:
-        "A Somali automatic speech recognition project focused on making speech technology more accessible for the Somali language.",
-      technologies: [
-        { name: "Python", icon: FaPython },
-        { name: "Whisper", icon: FaPython },
-        { name: "ASR", icon: FaPython },
-        { name: "NLP", icon: FaPython },
-        { name: "Hugging Face", icon: FaPython },
-      ],
-      github: "#",
-      demo: "#",
-    },
+
 
     {
       title: "AI Learning Assistant",
